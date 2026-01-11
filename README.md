@@ -11,6 +11,8 @@ The prototype focuses on **Printed Circuit Boards (PCBs)** and identifies multip
 ## Selected Product
 **Printed Circuit Board (PCB)**
 
+🔗 [PCB Defects Dataset – Kaggle](https://www.kaggle.com/datasets/akhatova/pcb-defects)
+
 PCBs are chosen due to:
 - Clear visual features
 - Availability of real-world defect datasets
@@ -124,3 +126,5 @@ This system demonstrates a scalable and efficient approach for automated quality
 
 ## Author
 **Deo Prakash**
+- Email - deoprakash364@gmail.com
+- LinkedIN = www.linkedin.com/in/deo-prakash-152265225
